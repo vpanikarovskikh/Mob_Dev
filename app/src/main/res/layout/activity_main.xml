@@ -3,12 +3,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <data>
-        <variable name="button1" type="android.widget.Button" />
-        <variable name="textView1" type="android.widget.TextView" />
-        <variable name="textInput" type="com.google.android.material.textfield.TextInputLayout" />
-    </data>
-
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
